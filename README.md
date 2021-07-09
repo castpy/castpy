@@ -9,7 +9,7 @@
 
 <div>
  <p>
-   Me chamo Marcus Castilho e sou fascinado por Ciências de Dados. Estou na área de tecnologia à 4 anos, desde então venho desenvolvendo na linguagem Python e atualmente estou    focado em Deep Learning!
+   Me chamo Marcus Castilho e sou fascinado por Ciências de Dados. Estou na área de tecnologia à 4 anos, desde então venho desenvolvendo na linguagem Python e atualmente focado em Deep Learning!
   </p>
 </div>
 
