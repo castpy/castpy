@@ -13,7 +13,18 @@
   </p>
 </div>
 
-- 🇧🇷 Afuá/PA
+<h2>💻 Alguns Dados 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=c4st1lh0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
+### Habilidades com 
+
+[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="Bash Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+<br><br>
 
 
 <h3> Follow me </h3>
@@ -24,9 +35,3 @@
 <a href="mailto:rootmarcus001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rootmarcus001@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
 <br><br>
-
-<h2>💻 Alguns Dados 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=c4st1lh0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
