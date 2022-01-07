@@ -33,7 +33,5 @@
 
 <p align="center">
 <a href="https://www.facebook.com/c4st1lh0" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-C4ST1LH0-blue?style=flat&logo=facebook"></a>
-<a href="https://www.instagram.com/_c4st1lh0_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-C4ST1LH0-orange?style=flat&logo=instagram"></a>
-<a href="mailto:rootmarcus001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rootmarcus001@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
 <br><br>
