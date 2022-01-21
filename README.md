@@ -24,3 +24,5 @@
   <img align="center" alt="Goole Cloud" height="50" width="50" src="https://img.icons8.com/color/96/000000/google-cloud.png">
   <img align="center" alt="Django" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
  </div>
+
+##### Metas de apreendizagem serão atualizadas em: 01/03/2022 (Ou antes)
