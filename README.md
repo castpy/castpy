@@ -15,10 +15,11 @@
  </div>
 
  
- ### Metas de apreendizagem para 2022
+ ## Metas de apreendizagem para 2022
   
 <div align="left">
-  
+ <h3>Data Science e Machine Learning</h3>
+ 
   - [ ] Python - Numpy
   - [ ] Python - Pandas
   - [ ] Python - Vizualização de dados
@@ -29,5 +30,5 @@
   - [ ] Python - Apreendizagem não supervisionada
   - [ ] Python - Visão computacional: YOLO
   - [ ] Python - Processamento de linguagem natual (PLN)
-  - [ ] Python - Estatísticas 
+  - [ ] Python - Projeto [Criação de I.A auto reforçada]
 </div>
