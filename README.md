@@ -22,13 +22,13 @@
  
   - [ ] Python - Numpy
   - [ ] Python - Pandas
-  - [ ] Python - Vizualização de dados
+  - [ ] Python - Visualização de dados
   - [ ] Python - Estatísticas 
   - [ ] Python - Estatísticas: Regreção Linear
   - [ ] Python - Modelos preditivos
   - [ ] Python - Classificação: Técnicas avançadas de ML
-  - [ ] Python - Apreendizagem não supervisionada
+  - [ ] Python - Aprendizagem não supervisionada
   - [ ] Python - Visão computacional: YOLO
-  - [ ] Python - Processamento de linguagem natual (PLN)
+  - [ ] Python - Processamento de linguagem natural (PLN)
   - [ ] Python - Projeto [Criação de I.A auto reforçada]
 </div>
