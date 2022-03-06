@@ -21,7 +21,7 @@
 <div align="left">
  <h3>Data Science e Machine Learning</h3>
  
-  - [ ] Python - Numpy
+  - [x] Python - Numpy
   - [ ] Python - Pandas
   - [ ] Python - Visualização de dados
   - [ ] Python - Estatísticas 
