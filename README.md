@@ -14,25 +14,3 @@
   <img align="center" alt="HTML4" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/33/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
   <img align="center" alt="CSS3" src="https://img.icons8.com/color/41/000000/css3.png"/>
  </div>
-
- 
- ## Metas de apreendizagem para 2022
-  
-<div align="left">
- <h3>Full Stack Web</h3>
- 
-  - [ ] HTML5
-  - [ ] CSS3
-  - [ ] JS
-  - [ ] PHP7
-  - [ ] PYTHON
-  - [ ] NODE_JS
-  - [ ] ANGULAR_JS
-  - [ ] VUE_JS
-  - [ ] REACT_JS
-  - [ ] MYSLQ
-  - [ ] SEO, Analytics e Google WebMaster Tools
-  - [ ] Web Services e API
-  - [ ] BOOTSTRAP
-  - [ ] UX e UI
-</div>
