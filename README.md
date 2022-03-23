@@ -19,17 +19,20 @@
  ## Metas de apreendizagem para 2022
   
 <div align="left">
- <h3>Data Science e Machine Learning</h3>
+ <h3>Full Stack Web</h3>
  
-  - [x] Python - Numpy
-  - [ ] Python - Pandas
-  - [ ] Python - Visualização de dados
-  - [ ] Python - Estatísticas 
-  - [ ] Python - Estatísticas: Regreção Linear
-  - [ ] Python - Modelos preditivos
-  - [ ] Python - Classificação: Técnicas avançadas de ML
-  - [ ] Python - Aprendizagem não supervisionada
-  - [ ] Python - Visão computacional: YOLO
-  - [ ] Python - Processamento de linguagem natural (PLN)
-  - [ ] Python - Projeto [Criação de I.A auto reforçada]
+  - [ ] HTML5
+  - [ ] CSS3
+  - [ ] PHP7
+  - [ ] JS
+  - [ ] PYTHON
+  - [ ] NODE_JS
+  - [ ] ANGULAR_JS
+  - [ ] VUE_JS
+  - [ ] REACT_JS
+  - [ ] MYSLQ
+  - [ ] SEO, Analytics e Google WebMaster Tools
+  - [ ] Web Services e API
+  - [ ] BOOTSTRAP
+  - [ ] UX e UI
 </div>
