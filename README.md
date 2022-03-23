@@ -23,8 +23,8 @@
  
   - [ ] HTML5
   - [ ] CSS3
-  - [ ] PHP7
   - [ ] JS
+  - [ ] PHP7
   - [ ] PYTHON
   - [ ] NODE_JS
   - [ ] ANGULAR_JS
