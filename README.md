@@ -5,3 +5,11 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=c4st1lh0&theme=github-dark-blue">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4st1lh0&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<br>
+<div align="center">
+  <h2>Links úteis</h2>
+  <a href="https://www.instagram.com/marcus_castpy/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+  <a href="https://www.facebook.com/c4st1lh0/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+  <a href="https://www.linkedin.com/in/c4st1lh0/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
+  <a href="https://c4st1lh0.github.io/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/internet.png"/></a>
+</div>
