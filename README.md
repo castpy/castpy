@@ -1,4 +1,5 @@
 ## Olá, eu me chamo Marcus Castilho e sou estudante de ciências da computação!
+<p align="center">Seja bem vindo ao meu perfil no GiHub, sinta-se à vontade para clonar e analisar tudo! <br> Removi a maioria dos repositórios e os contúdos sobre Deep Learning com Python, para uma melhor restruturação.</p>
 <div align="center">
   <a href="https://github.com/c4st1lh0">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=c4st1lh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
