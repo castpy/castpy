@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/61066188/161439839-3c39ef6b-a9b9-4879-8379-694e56096811.png">
+![Banner Linkedin 002](https://user-images.githubusercontent.com/61066188/167682899-5924b626-267f-4eb6-93a3-923c2e545354.png)
+
 <p align="center">Seja bem vindo ao meu perfil no GiHub, sinta-se à vontade para clonar e analisar tudo! <br> Removi a maioria dos repositórios e os contúdos sobre Deep Learning com Python, para uma melhor restruturação.</p>
 <div align="center">
   <a href="https://github.com/c4st1lh0">
