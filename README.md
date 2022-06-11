@@ -9,7 +9,7 @@
 <br>
 <div align="center">
   <h2>Links úteis</h2>
-  <a href="https://www.instagram.com/marcus_castpy/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+  <a href="https://www.instagram.com/castpy/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
   <a href="https://www.facebook.com/c4st1lh0/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
   <a href="https://www.linkedin.com/in/castpy/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
   <a href="https://castpy.github.io/" target"_blank"><img src="https://img.icons8.com/fluency/48/000000/internet.png"/></a>
